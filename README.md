@@ -60,10 +60,5 @@ Core Member, Quant Club
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 
