@@ -69,5 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> *“Where precision meets automation — a framework for intelligent futures trading.”*
 
