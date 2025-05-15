@@ -32,7 +32,6 @@ This system is built to simulate real-world trading conditions and includes:
 | Win Rate (%)             | 43.75%            |
 | Profit Percentage (%)    | 273.99%           |
 | Sharpe Ratio             | 1.79              |
-| Sortino Ratio            | 0.77              |
 | Max Drawdown ($)         | $88,138.00        |
 | Max Drawdown (%)         | 38.19%            |
 | Final Balance ($)        | $186,996.00       |
@@ -42,9 +41,7 @@ This system is built to simulate real-world trading conditions and includes:
 ## 🔑 Key Takeaways
 
 - ✅ **Strong Profitability**: +273.99% return on $50,000 initial capital  
-- ⚖️ **Moderate Risk-Adjusted Returns**: Sharpe 1.79, Sortino 0.77  
-- ⚠️ **High Drawdown (38.19%)**: Indicates room for further optimization  
-
+- ⚖️ **Moderate Risk-Adjusted Returns**: Sharpe 1.79 
 ---
 
 ## 🧠 Hypotheses & Insights
